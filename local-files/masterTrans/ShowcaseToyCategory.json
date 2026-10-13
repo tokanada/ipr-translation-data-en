@@ -1,0 +1,18 @@
+{
+  "rule": [
+    "id|name"
+  ],
+  "data": {
+    "toy-category-alphabet|name": "Lettering",
+    "toy-category-bigbuttonbadge|name": "Big Can Badge",
+    "toy-category-buttonbadge|name": "Can Badge",
+    "toy-category-chracrylicbord|name": "Card Stand",
+    "toy-category-chracrylicsd|name": "Mini Character Stand",
+    "toy-category-chracrylicstand|name": "Acrylic Stand",
+    "toy-category-figure|name": "Figure",
+    "toy-category-nameplate|name": "Plate",
+    "toy-category-pedestal-set|name": "Pedestal Set",
+    "toy-category-pedestal|name": "Pedestal",
+    "toy-category-tapestry|name": "Tapestry"
+  }
+}

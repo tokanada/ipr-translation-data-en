@@ -1,0 +1,26 @@
+{
+  "rule": [
+    "id|name"
+  ],
+  "data": {
+    "casl|name": "Casual Clothes",
+    "gene|name": "Casual-Style Idol Outfit",
+    "hruh|name": "SOS Brigade",
+    "idol-miku-mizg|name": "Swimsuit_Miku",
+    "idol-miku|name": "Idol Outfit_Miku",
+    "idol|name": "Idol Outfit",
+    "kion|name": "Sakuragaoka Girls' High School",
+    "mizg-all-ng|name": "Swimsuit_All NG",
+    "mizg-water-ng|name": "Swimsuit_Wet NG",
+    "mizg|name": "Swimsuit",
+    "pajm|name": "Pajama",
+    "schl|name": "Uniform",
+    "sd-ambassador|name": "Goodwill Ambassador",
+    "sd-police|name": "One-Day Police Chief",
+    "snro|name": "Sanrio Characters Collab",
+    "trbl-mizg|name": "Trouble Santa",
+    "trbl|name": "To LOVE-Ru",
+    "trng|name": "Training",
+    "waso|name": "Japanese Attire"
+  }
+}

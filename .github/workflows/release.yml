@@ -1,0 +1,30 @@
+name: release
+
+on:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    name: Release
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Package
+        run: |
+          zip -r "ipr-translation-data-en-$(cat version.txt).zip" version.txt local-files
+
+      - name: Release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          ver="$(cat version.txt)"
+          gh release view "$ver" >/dev/null 2>&1 || \
+            gh release create "$ver" --title "Release $ver" --notes "" --latest
+          gh release upload "$ver" "ipr-translation-data-en-$ver.zip" --clobber

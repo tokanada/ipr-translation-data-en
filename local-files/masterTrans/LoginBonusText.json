@@ -1,0 +1,27 @@
+{
+  "rule": [
+    "id|text"
+  ],
+  "data": {
+    "login_bonus_text-default-ai|text": "I'll give it my all today too!",
+    "login_bonus_text-default-aoi|text": "I hope I can dance happily today too...",
+    "login_bonus_text-default-chs|text": "I'll do my best as much as I can...",
+    "login_bonus_text-default-hrk|text": "Let's do our best today too!",
+    "login_bonus_text-default-kan|text": "Take good care of kana and the others\ntoday too, okay~!",
+    "login_bonus_text-default-kkr|text": "Let's give it our all today too~",
+    "login_bonus_text-default-kor|text": "At the very least, I'll\ndo what needs to be done.",
+    "login_bonus_text-default-ktn|text": "Thanks for today too.",
+    "login_bonus_text-default-mei|text": "Mei is full of energy today too!",
+    "login_bonus_text-default-mhk|text": "Please work hard\nas IIIX's manager.",
+    "login_bonus_text-default-ngs|text": "Thanks for today too!",
+    "login_bonus_text-default-rei|text": "Please don't cut corners, okay?",
+    "login_bonus_text-default-rio|text": "Now, let's do our best today too.",
+    "login_bonus_text-default-rui|text": "I'll give it my all as always.",
+    "login_bonus_text-default-ski|text": "Daily effort is what counts.",
+    "login_bonus_text-default-skr|text": "I'll give it my all!",
+    "login_bonus_text-default-smr|text": "I'll work even harder than yesterday!",
+    "login_bonus_text-default-suz|text": "I'll do my best!",
+    "login_bonus_text-default-szk|text": "I'll do my best today too...",
+    "login_bonus_text-default-yu|text": "Ah, we get to spend today together too. I'm so happy."
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "rule": [
+    "id|description",
+    "id|name"
+  ],
+  "data": {
+    "frame-001|description": "Small\nSize: 26×23×23",
+    "frame-001|name": "Small",
+    "frame-002|description": "Small (Wide)\nSize: 43×23×23",
+    "frame-002|name": "Small (Wide)",
+    "frame-003|description": "Medium\nSize: 43×38×38",
+    "frame-003|name": "Med",
+    "frame-004|description": "Medium (Wide) \nSize: 65×38×38",
+    "frame-004|name": "Medium (Wide)"
+  }
+}

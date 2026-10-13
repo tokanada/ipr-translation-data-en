@@ -1,0 +1,16 @@
+{
+  "rule": [
+    "homeDramaPositionId|name"
+  ],
+  "data": {
+    "home-drama-position-lesson-dance-01-00|name": "Dance_01-00",
+    "home-drama-position-lesson-dance-01-01|name": "Dance_01-01",
+    "home-drama-position-lesson-dance-01-02|name": "Dance_01-02",
+    "home-drama-position-lesson-dance-02-00|name": "Dance_02-00",
+    "home-drama-position-lesson-dance-02-01|name": "Dance_02-01",
+    "home-drama-position-lesson-dance-02-02|name": "Dance_02-02",
+    "home-drama-position-lesson-dance-03-00|name": "Dance_03-00",
+    "home-drama-position-lesson-dance-03-01|name": "Dance_03-01",
+    "home-drama-position-lesson-dance-03-02|name": "Dance_03-02"
+  }
+}

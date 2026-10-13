@@ -1,0 +1,23 @@
+{
+  "rule": [
+    "id|name"
+  ],
+  "data": {
+    "ex-st-part-limited-01|name": "Tokyo Arc Chapter 1",
+    "ex-st-part-limited-02|name": "Tokyo Arc Chapter 2",
+    "ex-st-part-limited-03|name": "BIG4 Arc Chapter 1",
+    "ex-st-part-limited-04|name": "Hoshimi Arc Chapter 1",
+    "ex-st-part-limited-05|name": "Hoshimi Arc Chapter 2",
+    "ex-st-part-limited-06|name": "Hoshimi Arc Chapter 3",
+    "ex-st-part-limited-07|name": "Hoshimi Arc Chapter 4",
+    "ex-st-part-limited-09|name": "LizNoir Chapter 1",
+    "ex-st-part-limited-10|name": "TRINITYAiLE Chapter 1",
+    "ex-st-part-limited-11|name": "Nagase Mana Chapter 1",
+    "ex-st-part-limited-12|name": "LizNoir Chapter 2",
+    "ex-st-part-limited-13|name": "IIIX Chapter 1",
+    "ex-st-part-limited-14|name": "Starry Sky Arc",
+    "ex-st-part-limited-15|name": "LizNoir Chapter 3",
+    "ex-story-part-birthday-01|name": "Birthday",
+    "ex-story-part-special-01|name": "Special Arc"
+  }
+}

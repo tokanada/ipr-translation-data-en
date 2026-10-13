@@ -1,0 +1,13 @@
+{
+  "rule": [
+    "parameterType|name"
+  ],
+  "data": {
+    "1|name": "Choreographer",
+    "2|name": "Vocal Trainer",
+    "3|name": "Stylist",
+    "4|name": "Physical Coach",
+    "5|name": "Therapist",
+    "6|name": "Director"
+  }
+}

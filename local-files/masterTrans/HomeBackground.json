@@ -1,0 +1,40 @@
+{
+  "rule": [
+    "homeBackgroundId|name"
+  ],
+  "data": {
+    "home-bg-lesson-01-noon|name": "Lesson Room (Day)",
+    "home-bg-lesson-01|name": "Lesson Room (Alt)",
+    "home-bg-office_01-evening|name": "Office (Evening)",
+    "home-bg-office_01-night|name": "Office (Night)",
+    "home-bg-office_01-noon|name": "Office (Day)",
+    "home-bg-office_01|name": "Office (Alt)",
+    "home-bg-office_02-evening|name": "Office Christmas (Evening)",
+    "home-bg-office_02-night|name": "Office Christmas (Night)",
+    "home-bg-office_02-noon|name": "Office Christmas (Day)",
+    "home-bg-office_03-evening|name": "Office New Year (Evening)",
+    "home-bg-office_03-night|name": "Office New Year (Night)",
+    "home-bg-office_03-noon|name": "Office New Year (Day)",
+    "home-bg-office_04-evening|name": "Office April Fools (Evening)",
+    "home-bg-office_04-night|name": "Office April Fools (Night)",
+    "home-bg-office_04-noon|name": "Office April Fools (Day)",
+    "home-bg-office_05-evening|name": "Office April Fools 2024 (Evening)",
+    "home-bg-office_05-night|name": "Office April Fools 2024 (Night)",
+    "home-bg-office_05-noon|name": "Office April Fools 2024 (Day)",
+    "home-bg-office_26-evening|name": "Office April Fools (Evening) 2026",
+    "home-bg-office_26-night|name": "Office April Fools (Night) 2026",
+    "home-bg-office_26-noon|name": "Office April Fools (Day) 2026",
+    "new-home-bg-dressroom_01|name": "[New] Dressing Room (Alt)",
+    "new-home-bg-dressroom_all|name": "[New] Dressing Room",
+    "new-home-bg-lesson_01|name": "[New] Lesson Room (Alt)",
+    "new-home-bg-lesson_all|name": "[New] Lesson Room",
+    "new-home-bg-living_01-evening|name": "[New] Dorm (Evening)",
+    "new-home-bg-living_01-night|name": "[New] Dorm (Night)",
+    "new-home-bg-living_01-noon|name": "[New] Dorm (Day)",
+    "new-home-bg-living_01|name": "[New] Dorm (Alt)",
+    "new-home-bg-office_01-evening|name": "[New] Office (Evening)",
+    "new-home-bg-office_01-night|name": "[New] Office (Night)",
+    "new-home-bg-office_01-noon|name": "[New] Office (Day)",
+    "new-home-bg-office_01|name": "[New] Office (Alt)"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "rule": [
+    "id|name",
+    "id|levels.name"
+  ],
+  "data": {
+    "act-ref-01|levels[0].name": "Cafe",
+    "act-ref-01|levels[1].name": "Shopping",
+    "act-ref-01|levels[2].name": "Rock Bath",
+    "act-ref-01|levels[3].name": "Karaoke",
+    "act-ref-01|name": "Rest",
+    "act-ref-02|levels[0].name": "Spending Time in the Dorm",
+    "act-ref-02|levels[1].name": "Theme Park",
+    "act-ref-02|levels[2].name": "Hot Spring",
+    "act-ref-02|levels[3].name": "Camp",
+    "act-ref-02|name": "Day Off"
+  }
+}

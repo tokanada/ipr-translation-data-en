@@ -1,0 +1,16 @@
+{
+  "rule": [
+    "id|dreamAreaName",
+    "id|functionMaintenanceMessage",
+    "id|functionMaintenanceTitle",
+    "id|tutorialAdvSubTitle",
+    "id|tutorialAdvTitle"
+  ],
+  "data": {
+    "1|dreamAreaName": "Practice",
+    "1|functionMaintenanceMessage": "This feature is currently under maintenance.",
+    "1|functionMaintenanceTitle": "Some Features Under Maintenance",
+    "1|tutorialAdvSubTitle": "A New Beginning",
+    "1|tutorialAdvTitle": "Tokyo Arc Chapter 1"
+  }
+}

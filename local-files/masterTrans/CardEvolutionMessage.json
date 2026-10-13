@@ -1,0 +1,43 @@
+{
+  "rule": [
+    "cardId|evolutionLevel|number|evolveMessage"
+  ],
+  "data": {
+    "card-hrk-05-link-00|0|1|evolveMessage": "I believe the day will come\nwhen I can stand on the same stage as Mana-chan",
+    "card-hrk-05-link-00|0|2|evolveMessage": "The next time you cry, Haruko,\nthey'll be happy tears of joy",
+    "card-hrk-05-link-00|1|1|evolveMessage": "We finally stand on the same stage",
+    "card-hrk-05-link-00|1|2|evolveMessage": "I've been waiting for this day",
+    "card-kan-05-link-00|0|1|evolveMessage": "Aaalright, what should I\ndraw on this stupid face?",
+    "card-kan-05-link-00|0|2|evolveMessage": "Doodling on my face is against the rules!?",
+    "card-kan-05-link-00|1|1|evolveMessage": "You can do it, right~?",
+    "card-kan-05-link-00|1|2|evolveMessage": "But of course!",
+    "card-kkr-05-link-00|0|1|evolveMessage": "Please burn the sight of us\nin full bloom into your eyes!",
+    "card-kkr-05-link-00|0|2|evolveMessage": "We'll make this\nthe hottest stage\nof the summer!",
+    "card-kkr-05-link-00|1|1|evolveMessage": "The results of training camp!",
+    "card-kkr-05-link-00|1|2|evolveMessage": "Let's show them!",
+    "card-mna-05-link-00|0|1|evolveMessage": "Kotono is my proud little sister",
+    "card-mna-05-link-00|0|2|evolveMessage": "……B-Big Sister……",
+    "card-mna-05-link-00|1|1|evolveMessage": "Let's go, Kotono!",
+    "card-mna-05-link-00|1|2|evolveMessage": "Wait up, Big Sister!",
+    "card-ngs-05-link-00|0|1|evolveMessage": "What's wrong? Leaning on me?",
+    "card-ngs-05-link-00|0|2|evolveMessage": "I'm a bit of a spoiled girl, so……",
+    "card-ngs-05-link-00|1|1|evolveMessage": "I love you, Kotono.",
+    "card-ngs-05-link-00|1|2|evolveMessage": "Yeah, I love you too",
+    "card-ski-05-link-00|0|1|evolveMessage": "Chisa, any itchy spots?",
+    "card-ski-05-link-00|0|2|evolveMessage": "Yeah, next time I'll wash you, okay?",
+    "card-ski-05-link-00|1|1|evolveMessage": "Let's go, Chisa",
+    "card-ski-05-link-00|1|2|evolveMessage": "Let's do our best together, Big Sister!",
+    "card-suz-05-link-00|0|1|evolveMessage": "Wh-Why is Mei's car\nso fast!?",
+    "card-suz-05-link-00|0|2|evolveMessage": "Ahaha, this time\nSuzunyan's the one\nchasing after you~",
+    "card-suz-05-link-00|1|1|evolveMessage": "This is the Wan Nyan Twins'!",
+    "card-suz-05-link-00|1|2|evolveMessage": "Such an exciting charm~!",
+    "card-szk-05-link-00|0|1|evolveMessage": "In my youth,\nChisa was always\nthere by my side",
+    "card-szk-05-link-00|0|2|evolveMessage": "I can be brave\nthanks to you, Shizuku.",
+    "card-szk-05-link-00|1|1|evolveMessage": "Our relationship is――",
+    "card-szk-05-link-00|1|2|evolveMessage": "――Of course, we're best friends!",
+    "card-yu-05-link-00|0|1|evolveMessage": "Y'know, I really do\nlove ya, Rui-chan",
+    "card-yu-05-link-00|0|2|evolveMessage": "I've come to love you even more",
+    "card-yu-05-link-00|1|1|evolveMessage": "Together from now on",
+    "card-yu-05-link-00|1|2|evolveMessage": "Yes, let's go together, Yu"
+  }
+}

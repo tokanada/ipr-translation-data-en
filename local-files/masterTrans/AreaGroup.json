@@ -1,0 +1,13 @@
+{
+  "rule": [
+    "id|name"
+  ],
+  "data": {
+    "area-main-group-001|name": "Rookie",
+    "area-main-group-002|name": "Regular",
+    "area-main-group-003|name": "Pro",
+    "area-main-group-004|name": "Master",
+    "area-main-group-005|name": "World",
+    "area-main-group-999|name": "Tutorial"
+  }
+}

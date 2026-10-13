@@ -1,0 +1,32 @@
+{
+  "rule": [
+    "stageId|number|name"
+  ],
+  "data": {
+    "photo_studio-03-000-noon|1|name": "Location A",
+    "photo_studio-03-000-noon|2|name": "Point B",
+    "photo_studio-03-000-noon|3|name": "Location C",
+    "photo_studio-04-001-noon|1|name": "Location A",
+    "photo_studio-04-001-noon|2|name": "Point B",
+    "photo_studio-04-001-noon|3|name": "Location C",
+    "photo_studio-05-000-noon|1|name": "Location A",
+    "photo_studio-06-000-noon|1|name": "Location A",
+    "photo_studio-06-000-noon|2|name": "Point B",
+    "stage-photo-bedrock-00|1|name": "Location A",
+    "stage-photo-expression-pool-00|1|name": "Location A",
+    "stage-photo-expression-pool-00|2|name": "Point B",
+    "stage-photo-expression-pool-00|3|name": "Location C",
+    "stage-photo-garden-02-03|1|name": "Location A",
+    "stage-photo-garden-02-03|2|name": "Point B",
+    "stage-photo-garden-02|1|name": "Location A",
+    "stage-photo-garden-02|2|name": "Point B",
+    "stage-photo-garden-02|3|name": "Location C",
+    "stage-photo-hillpark-00|1|name": "Location A",
+    "stage-photo-lesson-00|1|name": "Location A",
+    "stage-photo-lesson-00|2|name": "Point B",
+    "stage-photo-living-01|1|name": "Location A",
+    "stage-photo-living-01|2|name": "Point B",
+    "stage-photo-studio-02-000-noon|1|name": "Location A",
+    "stage-photo-themepark-00|1|name": "Location A"
+  }
+}

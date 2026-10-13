@@ -1,0 +1,34 @@
+{
+  "rule": [
+    "id|name"
+  ],
+  "data": {
+    "backside_panel_goal_setting_1-22-0731|name": "Training Results",
+    "backside_panel_goal_setting_1-23-0829|name": "Training Results",
+    "backside_panel_goal_setting_1|name": "Training Results",
+    "backside_panel_goal_setting_2-22-0731|name": "Training Results",
+    "backside_panel_goal_setting_2-23-0829|name": "Training Results",
+    "backside_panel_goal_setting_2|name": "Training Results",
+    "backside_panel_goal_setting_3-22-0731|name": "Training Results",
+    "backside_panel_goal_setting_3-23-0829|name": "Training Results",
+    "backside_panel_goal_setting_3|name": "Training Results",
+    "backside_panel_goal_setting_4-22-0731|name": "Rehearsals",
+    "backside_panel_goal_setting_4-23-0829|name": "Rehearsals",
+    "backside_panel_goal_setting_4|name": "Rehearsals",
+    "backside_panel_goal_setting_5-22-0731|name": "Onstage",
+    "backside_panel_goal_setting_5-23-0829|name": "Onstage",
+    "backside_panel_goal_setting_5|name": "Onstage",
+    "mini-backside_panel_goal_setting_1-23-0214|name": "Training Results",
+    "mini-backside_panel_goal_setting_1-25-0606|name": "Training Results",
+    "mini-backside_panel_goal_setting_1-26-0214|name": "Training Results",
+    "mini-backside_panel_goal_setting_2-23-0214|name": "Training Results",
+    "mini-backside_panel_goal_setting_2-25-0606|name": "Training Results",
+    "mini-backside_panel_goal_setting_2-26-0214|name": "Training Results",
+    "mini-backside_panel_goal_setting_3-23-0214|name": "Training Results",
+    "mini-backside_panel_goal_setting_3-25-0606|name": "Training Results",
+    "mini-backside_panel_goal_setting_3-26-0214|name": "Training Results",
+    "mini-backside_panel_goal_setting_4-23-0214|name": "Onstage",
+    "mini-backside_panel_goal_setting_4-25-0606|name": "Onstage",
+    "mini-backside_panel_goal_setting_4-26-0214|name": "Onstage"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "rule": [
+    "id|name"
+  ],
+  "data": {
+    "guild-01|name": "Sirius",
+    "guild-02|name": "Canopus",
+    "guild-03|name": "Vega",
+    "guild-04|name": "Procyon",
+    "guild-05|name": "Regulus",
+    "guild-06|name": "Spica",
+    "guild-07|name": "Altair",
+    "guild-08|name": "Deneb"
+  }
+}

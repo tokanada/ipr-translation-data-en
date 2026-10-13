@@ -1,0 +1,12 @@
+{
+  "rule": [
+    "id|name"
+  ],
+  "data": {
+    "photo-facial-angry|name": "Angry",
+    "photo-facial-sad|name": "Sorrowful",
+    "photo-facial-smile|name": "Smiling",
+    "photo-facial-surprising|name": "Surprised",
+    "photo-facial-wink|name": "Wink"
+  }
+}

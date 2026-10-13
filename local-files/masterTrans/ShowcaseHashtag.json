@@ -1,0 +1,31 @@
+{
+  "rule": [
+    "id|name"
+  ],
+  "data": {
+    "hashtag-char-ai|name": "Komiyama Ai",
+    "hashtag-char-aoi|name": "Igawa Aoi",
+    "hashtag-char-cca|name": "Cocoa",
+    "hashtag-char-chn|name": "Chino",
+    "hashtag-char-chs|name": "Shiraishi Chisa",
+    "hashtag-char-hrk|name": "Saeki Haruko",
+    "hashtag-char-kkr|name": "Akasaki Kokoro",
+    "hashtag-char-ktn|name": "Nagase Kotono",
+    "hashtag-char-mei|name": "Hayasaka Mei",
+    "hashtag-char-mku|name": "Hatsune Miku",
+    "hashtag-char-mna|name": "Nagase Mana",
+    "hashtag-char-ngs|name": "Ibuki Nagisa",
+    "hashtag-char-rei|name": "Ichinose Rei",
+    "hashtag-char-rio|name": "Kanzaki Rio",
+    "hashtag-char-rui|name": "Tendou Rui",
+    "hashtag-char-ski|name": "Shiraishi Saki",
+    "hashtag-char-skr|name": "Kawasaki Sakura",
+    "hashtag-char-smr|name": "Okuyama Sumire",
+    "hashtag-char-suz|name": "Narumiya Suzu",
+    "hashtag-char-szk|name": "Hyodo Shizuku",
+    "hashtag-char-yu|name": "Suzumura Yu",
+    "hashtag-group-moon|name": "Tsuki no Tempest",
+    "hashtag-group-sun|name": "SUNNY PEACE",
+    "hashtag-group-thrx|name": "IIIX"
+  }
+}

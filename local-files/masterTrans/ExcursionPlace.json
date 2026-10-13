@@ -1,0 +1,11 @@
+{
+  "rule": [
+    "id|name"
+  ],
+  "data": {
+    "ex-pool|name": "Pool",
+    "ex-seaside|name": "Coast",
+    "ex-shopping|name": "Shopping",
+    "ex-themepark|name": "Ferris Wheel"
+  }
+}

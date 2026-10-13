@@ -1,0 +1,27 @@
+{
+  "rule": [
+    "id|description"
+  ],
+  "data": {
+    "live_tip-audience_shortage-01|description": "It seems your Audience size is low. Raise your Idols'\nFan Count and Core Fan Rate through Work.",
+    "live_tip-audience_shortage-02|description": "It seems your Audience size is low. The larger the Audience, the bigger\nthe Score bonus, and the lower the chance of failing Skills.",
+    "live_tip-deck_unbalance-01|description": "It seems you have too many Scorer Types. Outside the SP Skill\npositions, balance your Supporters and Buffers.",
+    "live_tip-deck_unbalance-02|description": "It seems you have too many Scorer Types. Supporter\nTypes on the outside and Buffer Types in other positions are recommended.",
+    "live_tip-in_cool_time-01|description": "It seems A Skills aren't activating well in positions with many A Skill chances.\nPlace Idols with a short A Skill CT (cooldown).",
+    "live_tip-in_cool_time-02|description": "It seems A Skills aren't activating well in positions with many A Skill chances.\nIf you have an Idol with 2 A Skills, try placing them.",
+    "live_tip-in_cool_time-03|description": "If A Skills don't activate, the combo breaks and your Score won't grow.\nCheck the lane info and A Skill CT, and place your Idols properly.",
+    "live_tip-level_shortage-01|description": "It seems your Idols' levels aren't high enough for the Live difficulty.\nLevel up your Idols with \"Idol Strengthening\".",
+    "live_tip-low_activating_rate-01|description": "It seems your opponent is taking many Skill Chances. In each\nlane, the Idol with the highest stats gains the right to activate Skills.",
+    "live_tip-low_activating_rate-02|description": "It seems your opponent is taking many Skill Chances.\nStamina recovery can be effective for stealing chances.",
+    "live_tip-miss-01|description": "It seems your Skills are failing.\nCompensate for Mental with Sub Accessories and Photos.",
+    "live_tip-miss-02|description": "It seems your Skills are failing.\nIncrease the Audience size and Mental to reduce Skill failures.",
+    "live_tip-not_possessed-01|description": "SP Skills aren't activating.\nPlace a Scorer in the \"SP\" position in the lane info.",
+    "live_tip-not_possessed-02|description": "SP Skills aren't activating. In the \"SP\"\nposition in the lane info, place an Idol that has an SP Skill.",
+    "live_tip-other-01|description": "Lane colors indicate Vocal, Dance, and Visual.\nMatch your Accessories and Photos to the corresponding colors in your formation.",
+    "live_tip-other-02|description": "It seems your Idols' levels aren't high enough for the Live difficulty.\nIf you're short on Lesson Pieces, buy them at the Market.",
+    "live_tip-skill_heavy_weight-01|description": "This Live gives a bonus to the Score earned from A Skills.\nUse \"A Skill Score Up\" to boost the effect of A Skills.",
+    "live_tip-skill_heavy_weight-02|description": "This Live gives a bonus to the Score earned from A Skills.\nArrange your formation so enhancement effects activate right before A Skills.",
+    "live_tip-stamina_shortage-01|description": "It seems Skills aren't activating due to insufficient Stamina.\nCompensate for Stamina with Sub Accessories and Photos.",
+    "live_tip-stamina_shortage-02|description": "It seems Skills aren't activating due to insufficient Stamina.\nForm a unit with an Idol that has a Stamina recovery Skill."
+  }
+}

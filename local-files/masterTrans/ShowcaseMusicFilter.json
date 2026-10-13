@@ -1,0 +1,13 @@
+{
+  "rule": [
+    "id|name"
+  ],
+  "data": {
+    "showcase-music-filter-group-hsm|name": "Hoshimi Production",
+    "showcase-music-filter-group-mna|name": "Nagase Mana",
+    "showcase-music-filter-group-moon|name": "Tsuki no Tempest",
+    "showcase-music-filter-group-other|name": "Other",
+    "showcase-music-filter-group-sun|name": "SUNNY PEACE",
+    "showcase-music-filter-group-thrx|name": "IIIX"
+  }
+}

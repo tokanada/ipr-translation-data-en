@@ -1,0 +1,36 @@
+{
+  "rule": [
+    "id|name"
+  ],
+  "data": {
+    "photo-promotion-010|name": "Rock Bath",
+    "photo_activity-aj-2025-april|name": "Exhibition Space",
+    "photo_activity-aj-april|name": "Gyogyo Space",
+    "photo_activity-aj|name": "Exhibition Space",
+    "photo_activity-cafe-2025-april|name": "Cafe",
+    "photo_activity-cafe|name": "Cafe",
+    "photo_activity-catstreet-01|name": "Christmas",
+    "photo_activity-event_stage|name": "Event Stage",
+    "photo_activity-fashion_model|name": "Magazine Model",
+    "photo_activity-flyers-2025-april|name": "Flyer Distribution",
+    "photo_activity-flyers|name": "Flyer Distribution",
+    "photo_activity-garden|name": "Garden Terrace",
+    "photo_activity-hillpark|name": "Hoshimi City Hilltop",
+    "photo_activity-hot_spring|name": "Hot Spring",
+    "photo_activity-lesson|name": "Lesson Room",
+    "photo_activity-living|name": "Tokyo Dorm Living Room",
+    "photo_activity-ministage|name": "Tsukimori Hill",
+    "photo_activity-pool-miku|name": "Swimsuit Gravure Shoot",
+    "photo_activity-pool|name": "Swimsuit Gravure Shoot",
+    "photo_activity-quiz|name": "Quiz Show",
+    "photo_activity-radio_distribution-2025-april|name": "Radio Recording",
+    "photo_activity-radio_distribution|name": "Radio Recording",
+    "photo_activity-shopping|name": "Shopping",
+    "photo_activity-studio-00|name": "Shooting Studio",
+    "photo_activity-studio-clb-00|name": "Literature Club Room",
+    "photo_activity-studio-clb-01|name": "Christmas Shoot",
+    "photo_activity-studio-clb-02|name": "Christmas Shoot",
+    "photo_activity-theme_park|name": "Theme Park",
+    "photo_activity-video_distribution|name": "Program Broadcast"
+  }
+}

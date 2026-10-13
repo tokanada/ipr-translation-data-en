@@ -1,0 +1,24 @@
+{
+  "rule": [
+    "id|name"
+  ],
+  "data": {
+    "stage-live-dome-00-00|name": "Park Arena Musashino",
+    "stage-live-dome-01-00|name": "Japan Tradition Hall",
+    "stage-live-dome-02-00|name": "Yokohama Garden Hall",
+    "stage-live-dome-03-00|name": "Pacific Dome",
+    "stage-live-dome-04-00|name": "Park Arena Saitama",
+    "stage-live-hall-00-00|name": "Shinjuku FLAME",
+    "stage-live-hall-01-00|name": "Yurakucho Hall",
+    "stage-live-hall-02-00|name": "PUEBLO Kawasaki",
+    "stage-live-hall-03-00|name": "GREEN Stage Shibuya",
+    "stage-live-house-00-00|name": "Rapture Shibuya",
+    "stage-live-house-01-00|name": "Akihabara Fresh Theater",
+    "stage-live-house-02-00|name": "TERRACE Shimokitazawa",
+    "stage-live-house-03-00|name": "Hoshimi City Hilltop Stage",
+    "stage-live-unique-00-00|name": "Mirai Connect Stage",
+    "stage-live-unique-01-00|name": "Sunshine!! Stage",
+    "stage-live-unique-02-00|name": "Mirai Snow Stage",
+    "stage-live-unique-03-00|name": "Pretty Rabbit Stage"
+  }
+}

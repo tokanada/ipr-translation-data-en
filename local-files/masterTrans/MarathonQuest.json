@@ -1,0 +1,43 @@
+{
+  "rule": [
+    "id|description",
+    "id|name",
+    "id|unlockDescription"
+  ],
+  "data": {
+    "marathon-21-0930-quest-4|unlockDescription": "You must own\n\"Unexpected Birthday Live\"\nSaeki Haruko",
+    "marathon-21-0930-quest-5|unlockDescription": "You must own\n\"Unexpected Birthday Live\"\nSaeki Haruko",
+    "marathon-21-1130-quest-4|unlockDescription": "You must own\n\"Heart Full of Expectations\"\nNarumiya Suzu",
+    "marathon-21-1130-quest-5|unlockDescription": "You must own\n\"Heart Full of Expectations\"\nNarumiya Suzu",
+    "marathon-21-1130-quest-6|description": "A stage where it's easy to obtain the Links Medals needed for BOX drawing",
+    "marathon-21-1130-quest-6|name": "Medal Stage",
+    "marathon-21-1130-quest-6|unlockDescription": "You must clear\none of the\nNo.5 stages",
+    "marathon-22-0131-quest-4|unlockDescription": "You must own\n\"Moment of Tension\"\nKanzaki Rio",
+    "marathon-22-0131-quest-5|unlockDescription": "You must own\n\"Moment of Tension\"\nKanzaki Rio",
+    "marathon-22-0131-quest-6|description": "A stage where it's easy to obtain the Links Medals needed for BOX drawing",
+    "marathon-22-0131-quest-6|name": "Medal Stage",
+    "marathon-22-0131-quest-6|unlockDescription": "You must clear\none of the\nNo.5 stages",
+    "marathon-22-0526-quest-4|unlockDescription": "You must own\n\"Gathering Everyone's Pieces\"\nHyodo Shizuku",
+    "marathon-22-0526-quest-5|unlockDescription": "You must own\n\"Gathering Everyone's Pieces\"\nHyodo Shizuku",
+    "marathon-22-0526-quest-6|description": "A stage where it's easy to obtain the Links Medals needed for BOX drawing",
+    "marathon-22-0526-quest-6|name": "Medal Stage",
+    "marathon-22-0526-quest-6|unlockDescription": "You must clear\none of the\nNo.5 stages",
+    "marathon-raid-22-1028-quest-4|description": "A stage that opens each Lv of Co-op Live",
+    "marathon-raid-23-0128-quest-4|description": "A stage that opens each Lv of Co-op Live",
+    "marathon-raid-23-0328-quest-4|description": "A stage that opens each Lv of Co-op Live",
+    "marathon-raid-23-0528-quest-4|description": "A stage that opens each Lv of Co-op Live",
+    "marathon-raid-23-0728-quest-4|description": "A stage that unlocks each Lv of Co-op Live",
+    "marathon-raid-23-0927-quest-4|description": "A stage that opens each Lv of Co-op Live",
+    "marathon-raid-23-1027-quest-4|description": "A stage that unlocks each Lv of Co-op Live",
+    "marathon-raid-24-0827-quest-4|description": "A stage that unlocks each Lv of Co-op Live",
+    "marathon-raid-25-0128-quest-4|description": "A stage that unlocks each Lv of Co-op Live",
+    "marathon-raid-25-0326-quest-4|description": "A stage that unlocks each Lv of Co-op Live",
+    "marathon-raid-25-0927-quest-4|description": "A stage that opens each Lv of Co-op Live",
+    "marathon-raid-26-0427-quest-4|description": "A stage that opens each Lv of Co-op Live",
+    "marathon-raid-26-0708-quest-4|description": "A stage that opens each Lv of Co-op Live",
+    "mini-marathon-raid-23-1226-quest-4|description": "A stage that unlocks each Lv of Co-op Live",
+    "mini-marathon-raid-24-0327-quest-4|description": "A stage that unlocks each Lv of Co-op Live",
+    "mini-marathon-raid-24-0528-quest-4|description": "A stage that unlocks each Lv of Co-op Live",
+    "mini-marathon-raid-25-1226-quest-4|description": "A stage that unlocks each Lv of Co-op Live"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "rule": [
+    "id|name"
+  ],
+  "data": {
+    "quest_pressure-0|name": "Small",
+    "quest_pressure-1|name": "Small",
+    "quest_pressure-2|name": "Normal",
+    "quest_pressure-3|name": "Med",
+    "quest_pressure-4|name": "Large",
+    "quest_pressure-5|name": "Extra Large"
+  }
+}

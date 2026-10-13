@@ -1,0 +1,13 @@
+{
+  "rule": [
+    "id|name"
+  ],
+  "data": {
+    "hie-002|name": "Diamond",
+    "hie-003|name": "Platinum",
+    "hie-004|name": "Gold",
+    "hie-005|name": "Silver",
+    "hie-006|name": "Bronze",
+    "hie-007|name": "Challenger"
+  }
+}

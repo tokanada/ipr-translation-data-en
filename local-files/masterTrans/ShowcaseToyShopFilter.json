@@ -1,0 +1,26 @@
+{
+  "rule": [
+    "id|name"
+  ],
+  "data": {
+    "toy-shop-filter-char-ai|name": "Komiyama Ai",
+    "toy-shop-filter-char-aoi|name": "Igawa Aoi",
+    "toy-shop-filter-char-chs|name": "Shiraishi Chisa",
+    "toy-shop-filter-char-hrk|name": "Saeki Haruko",
+    "toy-shop-filter-char-kkr|name": "Akasaki Kokoro",
+    "toy-shop-filter-char-ktn|name": "Nagase Kotono",
+    "toy-shop-filter-char-mei|name": "Hayasaka Mei",
+    "toy-shop-filter-char-mna|name": "Nagase Mana",
+    "toy-shop-filter-char-ngs|name": "Ibuki Nagisa",
+    "toy-shop-filter-char-rei|name": "Ichinose Rei",
+    "toy-shop-filter-char-rio|name": "Kanzaki Rio",
+    "toy-shop-filter-char-rui|name": "Tendou Rui",
+    "toy-shop-filter-char-ski|name": "Shiraishi Saki",
+    "toy-shop-filter-char-skr|name": "Kawasaki Sakura",
+    "toy-shop-filter-char-smr|name": "Okuyama Sumire",
+    "toy-shop-filter-char-suz|name": "Narumiya Suzu",
+    "toy-shop-filter-char-szk|name": "Hyodo Shizuku",
+    "toy-shop-filter-char-yu|name": "Suzumura Yu",
+    "toy-shop-filter-other|name": "Other"
+  }
+}

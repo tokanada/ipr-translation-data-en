@@ -1,0 +1,11 @@
+{
+  "rule": [
+    "id|name"
+  ],
+  "data": {
+    "home-background-category_dressroom|name": "Dressing Room",
+    "home-background-category_lesson|name": "Lesson Room",
+    "home-background-category_living|name": "Dorm",
+    "home-background-category_office|name": "Office"
+  }
+}
