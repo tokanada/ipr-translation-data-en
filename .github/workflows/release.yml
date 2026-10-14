@@ -38,10 +38,13 @@ jobs:
 
       - name: Automatic Release
         if: steps.guard.outputs.skip != 'true'
-        uses: marvinpinto/action-automatic-releases@latest
-        with:
-          repo_token: ${{ secrets.GITHUB_TOKEN }}
-          automatic_release_tag: ${{ steps.ver.outputs.ver }}
-          title: Release ${{ steps.ver.outputs.ver }}
-          prerelease: false
-          files: ipr-translation-data-en-${{ steps.ver.outputs.ver }}.zip
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          ver="${{ steps.ver.outputs.ver }}"
+          gh release create "$ver" \
+            --title "Release $ver" \
+            --notes "English translation data" \
+            --generate-notes \
+            --latest
+          gh release upload "$ver" "ipr-translation-data-en-$ver.zip" --clobber
