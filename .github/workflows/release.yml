@@ -16,15 +16,32 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
+      - name: Version
+        id: ver
+        run: echo "ver=$(cat version.txt)" >> "$GITHUB_OUTPUT"
+
       - name: Package
         run: |
-          zip -r "ipr-translation-data-en-$(cat version.txt).zip" version.txt local-files
+          zip -r "ipr-translation-data-en-${{ steps.ver.outputs.ver }}.zip" version.txt local-files
 
-      - name: Release
+      - name: Check existing release (idempotency guard)
+        id: guard
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
-          ver="$(cat version.txt)"
-          gh release view "$ver" >/dev/null 2>&1 || \
-            gh release create "$ver" --title "Release $ver" --notes "" --latest
-          gh release upload "$ver" "ipr-translation-data-en-$ver.zip" --clobber
+          if gh release view "${{ steps.ver.outputs.ver }}" >/dev/null 2>&1; then
+            echo "skip=true" >> "$GITHUB_OUTPUT"
+            echo "Release tag ${{ steps.ver.outputs.ver }} already exists; skipping."
+          else
+            echo "skip=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Automatic Release
+        if: steps.guard.outputs.skip != 'true'
+        uses: marvinpinto/action-automatic-releases@latest
+        with:
+          repo_token: ${{ secrets.GITHUB_TOKEN }}
+          automatic_release_tag: ${{ steps.ver.outputs.ver }}
+          title: Release ${{ steps.ver.outputs.ver }}
+          prerelease: false
+          files: ipr-translation-data-en-${{ steps.ver.outputs.ver }}.zip
