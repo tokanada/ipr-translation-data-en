@@ -48,3 +48,13 @@ jobs:
             --generate-notes \
             --latest
           gh release upload "$ver" "ipr-translation-data-en-$ver.zip" --clobber
+
+      - name: Notify module repo
+        if: steps.guard.outputs.skip != 'true'
+        env:
+          GH_TOKEN: ${{ secrets.PIPELINE_PAT }}
+        run: |
+          gh api repos/tokanada/HoshimiLocalify-en/dispatches \
+            -X POST \
+            -f event_type=data-release \
+            -H "Authorization: token ${{ secrets.PIPELINE_PAT }}"
