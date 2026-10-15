@@ -3828,6 +3828,15 @@
     "item-tour_medal-tour-21-0630|name": "Tour Medal",
     "item-tour_medal-tour-21-0731|description": "Can be exchanged for various items at the Tour Medal Exchange\nConverted to Coins after the Event ends",
     "item-tour_medal-tour-21-0731|howToGet": "Tour Live",
-    "item-tour_medal-tour-21-0731|name": "Tour Medal"
+    "item-tour_medal-tour-21-0731|name": "Tour Medal",
+    "item-gacha-free-ticket-1s-26-1020|description": "Allows you to draw the 10-Consecutive Ticket Gacha once",
+    "item-gacha-free-ticket-1s-26-1020|howToGet": "\"Aipura Day on the 10th\" Limited Gift",
+    "item-gacha-free-ticket-1s-26-1020|name": "Free 10-Draw Gacha Ticket",
+    "item-gacha_medal-buttonbadge-birthday-26-1015|description": "Can be exchanged for button badges at the Birthday Button Badge Medal Exchange.\nConverted into coins after the expiration date.\nEligible Gachas: \"Shizuku Birthday Gacha 2026\", etc",
+    "item-gacha_medal-buttonbadge-birthday-26-1015|howToGet": "Gacha",
+    "item-gacha_medal-buttonbadge-birthday-26-1015|name": "Birthday Button Badge Medal",
+    "item-gacha_point-birthday-26-1015|description": "Consume Gacha Pt from the corresponding gacha page\nto acquire idols",
+    "item-gacha_point-birthday-26-1015|name": "Shizuku Birthday Gacha 2026 Pt",
+    "item-gacha_point-select-01-26-1015|description": "Consume Gacha Pt from the corresponding gacha page\nto acquire idols"
   }
 }

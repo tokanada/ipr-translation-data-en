@@ -242,6 +242,10 @@
     "theater.episode.disable.toast|word": "Watch the previous stage first",
     "tour.sheet.resume.area|word": "From Latest Area",
     "tour.sheet.stamina.description|word": "*Tour stamina recovers +1 every {0}.",
-    "tour.top.smallTitle.miniTour|word": "Regular Tour"
+    "tour.top.smallTitle.miniTour|word": "Regular Tour",
+    "love.lesson.rewardDialog.reward.noExp|word": "Since {0} Lv has reached MAX, {0} EXP cannot be accumulated.",
+    "love.level.release|word": "{0} Lv{1} Unlocked",
+    "love.setting.hintLv.notice|word": "*Hint Lv is unlocked by raising {0} Lv.",
+    "love.sheet.adv.menu.description|word": "This is the {0} menu"
   }
 }
