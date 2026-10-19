@@ -1,6 +1,6 @@
 [backgroundgroup backgrounds=[background id=outsidehall-00-noon src=env_adv_2d_outsidehall-00-noon] backgrounds=[background id=tokyokissa-00-noon src=env_adv_2d_tokyokissa-00-noon] backgrounds=[background id=lovehroom src=env_adv_2d_lovehroom-00-noon] backgrounds=[background id=tokyocafe-00-noon src=env_adv_2d_tokyocafe-00-noon]]
 [actorgroup actors=[actor id=ngs body=mdl_chr_ngs-casl-01_body face=mdl_chr_ngs-base-00_face hair=mdl_chr_ngs-base-00_hair] actors=[actor id=smr body=mdl_chr_smr-casl-00_body face=mdl_chr_smr-base-00_face hair=mdl_chr_smr-base-00_hair]]
-[title title=Normal Ending]
+[title title=normal]
 [fade from=1 to=0 clip=\{"_startTime":0.0,"_duration":0.8,"_easeInDuration":0.0,"_easeOutDuration":0.0,"_blendInDuration":-1.0,"_blendOutDuration":-1.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]
 [bgmplay bgm=sud_bgm_adv_main-01 clip=\{"_startTime":0.0,"_duration":0.0,"_easeInDuration":0.0,"_easeOutDuration":0.0,"_blendInDuration":-1.0,"_blendOutDuration":-1.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]
 [message text=（Nagisa and I passed the entrance\nexam for Higashibashi University.\nWe're still dating‚\nand now we're living together.） name={user} clip=\{"_startTime":0.8,"_duration":7.2548301697,"_easeInDuration":0.0,"_easeOutDuration":0.0,"_blendInDuration":-1.0,"_blendOutDuration":-1.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]

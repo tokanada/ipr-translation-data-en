@@ -1,6 +1,6 @@
 [backgroundgroup backgrounds=[background id=tokyoconference-00-night src=env_adv_2d_tokyoconference-00-night] backgrounds=[background id=hillpark-00-noon src=env_adv_2d_hillpark-00-noon]]
 [actorgroup actors=[actor id=rio body=mdl_chr_rio-casl-01_body face=mdl_chr_rio-base-00_face hair=mdl_chr_rio-base-00_hair]]
-[title title=神崎莉央 1話 思い出を巡れば]
+[title title=Rio Kanzaki Ep.01 Trace Back Memories]
 [bgm bgm=sud_bgm_adv_tokyo-01 clip=\{"_startTime":0.0,"_duration":38.1977413334,"_easeInDuration":0.0,"_easeOutDuration":0.5,"_blendInDuration":0.0,"_blendOutDuration":0.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]
 [fade from=1 to=1 clip=\{"_startTime":0.0,"_duration":0.8,"_easeInDuration":0.0,"_easeOutDuration":0.0,"_blendInDuration":-1.0,"_blendOutDuration":-1.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]
 [fade from=1 to=0 clip=\{"_startTime":1.4200000048,"_duration":0.8,"_easeInDuration":0.0,"_easeOutDuration":0.0,"_blendInDuration":-1.0,"_blendOutDuration":-1.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]
