@@ -1,6 +1,6 @@
 [backgroundgroup backgrounds=[background id=bg1 src=env_adv_3d_office-01-000-noon]]
 [actorgroup actors=[actor id=skr body=mdl_chr_skr-newy-00_body face=mdl_chr_skr-base-00_face hair=mdl_chr_skr-newy-00_hair] actors=[actor id=hrk body=mdl_chr_hrk-newy-00_body face=mdl_chr_hrk-base-01_face hair=mdl_chr_hrk-newy-00_hair] actors=[actor id=rei body=mdl_chr_rei-newy-00_body face=mdl_chr_rei-base-00_face hair=mdl_chr_rei-newy-00_hair] actors=[actor id=chs body=mdl_chr_chs-newy-00_body face=mdl_chr_chs-base-00_face hair=mdl_chr_chs-newy-00_hair] actors=[actor id=szk body=mdl_chr_szk-newy-00_body face=mdl_chr_szk-base-00_face hair=mdl_chr_szk-newy-00_hair]]
-[title title=ハッピーニューイヤー]
+[title title=Happy New Year]
 [bgm bgm=sud_bgm_adv_sun-01 clip=\{"_startTime":0.0,"_duration":61.2333333333,"_easeInDuration":0.0,"_easeOutDuration":0.5,"_blendInDuration":0.0,"_blendOutDuration":0.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]
 [fade from=1 to=0 clip=\{"_startTime":0.0,"_duration":0.8,"_easeInDuration":0.0,"_easeOutDuration":0.0,"_blendInDuration":-1.0,"_blendOutDuration":-1.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]
 [actorlayoutgroup layouts=[actorlayout id=skr transform=\{"position":\{"x":0.2331833839416504,"y":0.0,"z":-6.327977180480957\},"rotation":\{"x":0.0,"y":181.91073608398438,"z":0.0\},"scale":\{"x":1.0,"y":1.0,"z":1.0\}\}] clip=\{"_startTime":0.0,"_duration":0.0,"_easeInDuration":0.0,"_easeOutDuration":0.0,"_blendInDuration":-1.0,"_blendOutDuration":-1.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]

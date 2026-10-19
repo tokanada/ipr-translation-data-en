@@ -1,7 +1,7 @@
 [backgroundgroup backgrounds=[background id=3d_corridor_evening src=env_adv_3d_lesson-01-000-noon]]
 [backgroundlayoutgroup layouts=[backgroundlayout id=3d_corridor_evening] captures=[backgroundcapture id=c_hlesson_01 setting=\{"focalLength":40.0,"transform":\{"position":\{"x":3.700000047683716,"y":1.2999999523162842,"z":1.7799999713897706\},"rotation":\{"x":0.0,"y":237.0,"z":0.0\},"scale":\{"x":1.0,"y":1.0,"z":1.0\}\},"dofSetting":\{"active":false,"focalPoint":4.0,"fNumber":4.0,"maxBlurSpread":3.0\}\}] clip=\{"_startTime":0.0,"_duration":0.0,"_easeInDuration":0.0,"_easeOutDuration":0.0,"_blendInDuration":-1.0,"_blendOutDuration":-1.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]
 [actorgroup actors=[actor id=ai body=mdl_chr_ai-trng-00_body face=mdl_chr_ai-base-00_face hair=mdl_chr_ai-base-00_hair]]
-[title title=愛誕生日4周目]
+[title title=Ai's Birthday Round 4]
 [bgm bgm=sud_bgm_adv_studio-01 clip=\{"_startTime":0.0,"_duration":69.2666558901,"_easeInDuration":0.0,"_easeOutDuration":0.5,"_blendInDuration":0.0,"_blendOutDuration":0.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]
 [fade from=1 to=0 clip=\{"_startTime":0.0,"_duration":0.8,"_easeInDuration":0.0,"_easeOutDuration":0.0,"_blendInDuration":-1.0,"_blendOutDuration":-1.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]
 [message text=Huff… huff… 999\n1‚000! Push-ups done! name=Ai Komiyama thumbnial=img_chr_adv_ai-00 clip=\{"_startTime":0.8,"_duration":11.770784378,"_easeInDuration":0.0,"_easeOutDuration":0.0,"_blendInDuration":-1.0,"_blendOutDuration":-1.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]

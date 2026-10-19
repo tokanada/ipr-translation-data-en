@@ -4,7 +4,7 @@
 [actorrenderer id=ngs assets=mdl_prp_smartphone-normal-l00_smartphone clip=\{"_startTime":0.0,"_duration":0.0,"_easeInDuration":0.0,"_easeOutDuration":0.0,"_blendInDuration":-1.0,"_blendOutDuration":-1.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]
 [actorrenderer id=suz assets=mdl_prp_smartphone-normal-l00_smartphone clip=\{"_startTime":0.0,"_duration":0.0,"_easeInDuration":0.0,"_easeOutDuration":0.0,"_blendInDuration":-1.0,"_blendOutDuration":-1.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]
 [actorrenderer id=ski assets=mdl_prp_smartphone-normal-l00_smartphone clip=\{"_startTime":0.0,"_duration":0.0,"_easeInDuration":0.0,"_easeOutDuration":0.0,"_blendInDuration":-1.0,"_blendOutDuration":-1.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]
-[title title=BIG4編1章8話 底無しスランプ]
+[title title=BIG4 Chapter 1 Episode 8 Bottomless Slump]
 [bgm bgm=sud_bgm_adv_meeting-01 clip=\{"_startTime":0.0,"_duration":55.7333333333,"_easeInDuration":0.0,"_easeOutDuration":0.5,"_blendInDuration":0.0,"_blendOutDuration":0.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]
 [bgm bgm=sud_bgm_adv_backstage-01 clip=\{"_startTime":65.1,"_duration":65.6,"_easeInDuration":0.0,"_easeOutDuration":1.0,"_blendInDuration":0.0,"_blendOutDuration":0.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]
 [bgm bgm=sud_bgm_adv_serious-01 clip=\{"_startTime":131.5666666667,"_duration":43.6333333334,"_easeInDuration":0.0,"_easeOutDuration":1.0,"_blendInDuration":0.0,"_blendOutDuration":0.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]

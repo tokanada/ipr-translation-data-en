@@ -1,6 +1,6 @@
 [backgroundgroup backgrounds=[background id=dressingroom-00-noon src=env_adv_2d_dressingroom-00-noon] backgrounds=[background id=okinawastage-00-noon src=env_adv_2d_okinawastage-00-noon] backgrounds=[background id=okinawabeach-00-night src=env_adv_2d_okinawabeach-00-night]]
 [actorgroup actors=[actor id=ngs body=mdl_chr_ngs-yukt-00_body face=mdl_chr_ngs-base-00_face hair=mdl_chr_ngs-yukt-00_hair]]
-[title title=伊吹渚 3話 とっても幸せです]
+[title title=Nagisa Ibuki Episode 3 I'm So Happy]
 [actorlayoutgroup layouts=[actorlayout id=ngs] clip=\{"_startTime":0.0,"_duration":0.0,"_easeInDuration":0.0,"_easeOutDuration":0.0,"_blendInDuration":-1.0,"_blendOutDuration":-1.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]
 [bgm bgm=sud_bgm_adv_backstage-01 clip=\{"_startTime":0.0,"_duration":32.6933334269,"_easeInDuration":0.0,"_easeOutDuration":0.5,"_blendInDuration":0.0,"_blendOutDuration":0.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]
 [bgm bgm=sud_bgm_adv_moon-01 clip=\{"_startTime":33.1933334269,"_duration":24.7333346048,"_easeInDuration":0.0,"_easeOutDuration":0.5,"_blendInDuration":0.0,"_blendOutDuration":0.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]

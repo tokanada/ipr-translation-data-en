@@ -1,6 +1,6 @@
 [backgroundgroup backgrounds=[background id=tokyotown-00-night src=env_adv_2d_tokyocorridor-00-noon]]
 [actorgroup actors=[actor id=mei body=mdl_chr_mei-schl-00_body face=mdl_chr_mei-base-00_face hair=mdl_chr_mei-base-00_hair others=mdl_prp_giftbox-normal-r00_giftbox]]
-[title title=23年2月VDサプライズ_早坂芽衣]
+[title title=Feb 2023 VD Surprise - Mei Hayasaka]
 [actorrenderer id=mei assets=mdl_prp_giftbox-normal-r00_giftbox]
 [bgm bgm=sud_bgm_adv_pretty-01 volume=0.949 clip=\{"_startTime":0.0,"_duration":9.4,"_easeInDuration":0.0,"_easeOutDuration":0.5,"_blendInDuration":0.0,"_blendOutDuration":0.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]
 [fade from=1 to=0 clip=\{"_startTime":0.0,"_duration":0.8,"_easeInDuration":0.0,"_easeOutDuration":0.0,"_blendInDuration":-1.0,"_blendOutDuration":-1.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]

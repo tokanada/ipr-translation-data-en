@@ -246,6 +246,13 @@
     "love.lesson.rewardDialog.reward.noExp|word": "Since {0} Lv has reached MAX, {0} EXP cannot be accumulated.",
     "love.level.release|word": "{0} Lv{1} Unlocked",
     "love.setting.hintLv.notice|word": "*Hint Lv is unlocked by raising {0} Lv.",
-    "love.sheet.adv.menu.description|word": "This is the {0} menu"
+    "love.sheet.adv.menu.description|word": "This is the {0} menu",
+    "common.android.app.store|word": "Google Play",
+    "love.unknown|word": "???",
+    "marathon.music.select.thumbnail.quest.number|word": "No.{0}",
+    "marathon.top.raid.bigTitle|word": "MULTI LINKS",
+    "shelf.home.tab.album.slot.episode.free|word": "{0}",
+    "shelf.top.bigTitle|word": "PHOTO ALBUM",
+    "showcase.top.bigTitle|word": "GOODS CASE"
   }
 }

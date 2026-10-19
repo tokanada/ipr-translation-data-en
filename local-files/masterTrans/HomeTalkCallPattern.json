@@ -1108,6 +1108,19 @@
     "char-yu|call-pattern-yu-12|characterArrivalText": "Rui-chan is so cute, she's got that aura, she's like the perfect idol, don'tcha think~",
     "char-yu|call-pattern-yu-12|managerCallText": "Good work",
     "char-yu|call-pattern-yu-13|characterArrivalText": "The latest volume of that idol manga ya recommended is out. Read it yet, hmm?",
-    "char-yu|call-pattern-yu-13|managerCallText": "Good work"
+    "char-yu|call-pattern-yu-13|managerCallText": "Good work",
+    "char-kan|call-pattern-card-kan-05-link-00|characterArrivalText": "Someone was saying, \"Rio's basically like LizNoir's mom,\" or something.",
+    "char-kor|call-pattern-card-kor-05-newy-00|characterArrivalText": "Next time, make sure to land us a gig where we can go to Hawaii.",
+    "char-mei|call-pattern-card-mei-05-wdnc-00|characterArrivalText": "{user}, have you ever smashed a guitar or some instrument like, wham!",
+    "char-ngs|call-pattern-card-ngs-05-link-00|characterArrivalText": "{user}, should I give you some pats on the head?",
+    "char-rei|call-pattern-card-rei-05-trbl-00|characterArrivalText": "{user}! May I ask you to undergo a luggage inspection right this instant?",
+    "char-rui|call-pattern-card-rui-05-fest-03|characterArrivalText": "What on earth should I do... Carry chili pepper spray around with me at all times or something...?",
+    "char-ski|call-pattern-card-ski-05-link-00|characterArrivalText": "I've been thinking about observing what kind of things Chisa talks about with Sunny Peace's members",
+    "char-skr|call-pattern-card-skr-05-fest-03|characterArrivalText": "{user}, what do you think is the most important thing when it comes to sightseeing?",
+    "char-suz|call-pattern-card-suz-05-link-00|characterArrivalText": "Peek-a-boo, desu wa! {user}!",
+    "char-yu|call-pattern-card-yu-05-fest-04|characterArrivalText": "I'm worried about you, {user}. Why do you go and believe every single little fib you hear...",
+    "char-yu|call-pattern-card-yu-05-jwel-00|characterArrivalText": "Heh~... they've got things like this too. Pendants, bracelets... Such a tough choice.",
+    "char-yu|call-pattern-card-yu-05-link-00|characterArrivalText": "{user}, could you hear me out with a little worry of mine?",
+    "char-yu|call-pattern-card-yu-05-ster-00|characterArrivalText": "I promised Nagisa-chan we'd throw a school festival after-party together next time."
   }
 }
