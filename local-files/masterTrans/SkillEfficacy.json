@@ -23491,6 +23491,18 @@
     "ef-weakness_effect_reflection-1-target-self-36|description": "Reflect debuff to self [36 Beat]",
     "ef-weakness_effect_reflection-1-target-self-36|name": "Reflect debuff to self",
     "ef-weakness_effect_reflection-1-target-self-43|description": "Reflect debuff to self [43 Beat]",
-    "ef-weakness_effect_reflection-1-target-self-43|name": "Reflect debuff to self"
+    "ef-weakness_effect_reflection-1-target-self-43|name": "Reflect debuff to self",
+    "ef-audience_amount_increase-6-target-self-22|description": "6-stage Focus effect to self [22 Beat]",
+    "ef-audience_amount_increase-6-target-self-22|name": "Focus effect to self",
+    "ef-dance_up-6-target-self-22|description": "6-stage Dance Up effect to self [22 Beat]",
+    "ef-dance_up-6-target-self-22|name": "Dance Up effect to self",
+    "ef-limit_break_audience_amount_increase-5-target-self-22|description": "5-stage Focus Up Limit Break effect to self [22 Beat]",
+    "ef-limit_break_audience_amount_increase-5-target-self-22|name": "Focus Up Limit Break to self",
+    "ef-limit_break_audience_amount_increase-5-target-self-26|description": "5-stage Focus Up Limit Break effect to self [26 Beat]",
+    "ef-limit_break_audience_amount_increase-5-target-self-26|name": "Focus Up Limit Break to self",
+    "ef-limit_break_audience_amount_increase-5-target-self-34|description": "5-stage Focus Up Limit Break effect to self [34 Beat]",
+    "ef-limit_break_audience_amount_increase-5-target-self-34|name": "Focus Up Limit Break to self",
+    "ef-limit_break_audience_amount_increase-5-target-self-39|description": "5-stage Focus Up Limit Break effect to self [39 Beat]",
+    "ef-limit_break_audience_amount_increase-5-target-self-39|name": "Focus Up Limit Break to self"
   }
 }

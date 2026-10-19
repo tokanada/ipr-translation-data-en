@@ -5144,6 +5144,17 @@
     "st-shelf-26-1002-009-004|description": "The day of the tournament. Having prepared songs and costumes, the three finally stand on the stage of the \"Underground Arena.\" Being BIG4, they advance with outstanding skill and at last make it to the final. However, their final opponents are astonishing people...",
     "st-shelf-26-1002-009-004|name": "Strongest Idol\nTournament",
     "st-shelf-26-1002-009-005|description": "The final battle. The fight against \"BEIJU,\" led by DJ Granny, finally begins. Though the opponents do not even seem to know what a DJ is, the three face their unfathomable depth, staking BIG4's pride on it.",
-    "st-shelf-26-1002-009-005|name": "Fierce Battle!\nDJ Granny &\nBEIJU"
+    "st-shelf-26-1002-009-005|name": "Fierce Battle!\nDJ Granny &\nBEIJU",
+    "st-birthday-branch-szk-26-1015|branchCautionText": "You can reselect this later",
+    "st-birthday-branch-szk-26-1015|branchChoices[0].text": "A handmade lure",
+    "st-birthday-branch-szk-26-1015|branchChoices[1].text": "A handmade stuffed toy",
+    "st-birthday-branch-szk-26-1015|branchChoices[2].text": "Saegusa-san's foot size data",
+    "st-birthday-branch-szk-26-1015|branchFirstText": "Today's Shizuku's birthday.\nWhat should I get her as a present?",
+    "st-birthday-branch-szk-26-1015|name": "Shizuku Hyodo Birthday 2026",
+    "st-card-ktn-05-mnab-00-03|name": "song for you",
+    "st-card-szk-05-birt-03-01|name": "Shizuku Hyodo's\nSunnyP Mania",
+    "st-card-szk-05-birt-03-02|name": "Members-Only",
+    "st-card-szk-05-birt-03-03|name": "Together\nForever",
+    "st-eve-2109-backside-005|name": "The Last Chance"
   }
 }
