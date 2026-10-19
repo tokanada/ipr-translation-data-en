@@ -1,6 +1,6 @@
 [backgroundgroup backgrounds=[background id=dressingroom-00-noon src=env_adv_2d_dressingroom-00-noon]]
 [actorgroup actors=[actor id=rio body=mdl_chr_rio-newy-00_body face=mdl_chr_rio-base-00_face hair=mdl_chr_rio-newy-00_hair]]
-[title title=Rio Kanzaki Ep.01 Wanna Come over My Home?]
+[title title=Rio Kanzaki Ep.01 Wanna Come over to My Place?]
 [bgm bgm=sud_bgm_adv_liz-01 clip=\{"_startTime":1.8666666667,"_duration":38.2,"_easeInDuration":0.0,"_easeOutDuration":0.5,"_blendInDuration":0.0,"_blendOutDuration":0.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]
 [bgm bgm=sud_bgm_adv_backstage-01 clip=\{"_startTime":40.5666666667,"_duration":19.4033333333,"_easeInDuration":0.0,"_easeOutDuration":0.5,"_blendInDuration":0.0,"_blendOutDuration":0.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]
 [fade from=1 to=1 clip=\{"_startTime":0.0,"_duration":0.1,"_easeInDuration":0.0,"_easeOutDuration":0.0,"_blendInDuration":-1.0,"_blendOutDuration":-1.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]

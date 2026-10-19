@@ -21015,18 +21015,6 @@
     "ms-weekly-quest_all_clear_count-80|shortDescription": "Live clear {threshold} times",
     "ms-weekly-quest_all_clear_count-90|longDescription": "Clear Live {threshold} times.",
     "ms-weekly-quest_all_clear_count-90|name": "Live clear {threshold} times",
-    "ms-weekly-quest_all_clear_count-90|shortDescription": "Live clear {threshold} times",
-    "event-ms-idoly-pride-day-mission-26-1020-login|longDescription": "Log in once.",
-    "event-ms-idoly-pride-day-mission-26-1020-login|name": "Log In Once",
-    "event-ms-idoly-pride-day-mission-26-1020-login|shortDescription": "Log In Once",
-    "event-ms-idoly-pride-day-mission-26-1020-mission_clear_count|longDescription": "Clear all event missions.",
-    "event-ms-idoly-pride-day-mission-26-1020-mission_clear_count|name": "Clear All Event Missions",
-    "event-ms-idoly-pride-day-mission-26-1020-mission_clear_count|shortDescription": "Clear All Event Missions",
-    "event-ms-idoly-pride-day-mission-26-1020-photo_shoot_count|longDescription": "Take {threshold} photos.",
-    "event-ms-idoly-pride-day-mission-26-1020-photo_shoot_count|name": "Take Photos {threshold} Times",
-    "event-ms-idoly-pride-day-mission-26-1020-photo_shoot_count|shortDescription": "Take Photos {threshold} Times",
-    "event-ms-idoly-pride-day-mission-26-1020-quest-daily-clear-count|longDescription": "Clear Daily Lives {threshold} times.",
-    "event-ms-idoly-pride-day-mission-26-1020-quest-daily-clear-count|name": "Clear Daily Lives {threshold} Times",
-    "event-ms-idoly-pride-day-mission-26-1020-quest-daily-clear-count|shortDescription": "Clear Daily Lives {threshold} Times"
+    "ms-weekly-quest_all_clear_count-90|shortDescription": "Live clear {threshold} times"
   }
 }

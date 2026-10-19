@@ -1,6 +1,6 @@
 [backgroundgroup backgrounds=[background id=stagesleeves-00-noon src=env_adv_2d_stagesleeves-00-noon] backgrounds=[background id=tokyocafe-00-noon src=env_adv_2d_tokyocafe-00-noon] backgrounds=[background id=3d_toffice_night src=env_adv_3d_office-01-000-night]]
 [actorgroup actors=[actor id=ktn body=mdl_chr_ktn-kiok-00_body face=mdl_chr_ktn-base-00_face hair=mdl_chr_ktn-kiok-00_hair]]
-[title title=Kotono Nagase Ep.01 For Our Guest]
+[title title=長瀬琴乃 1話 ゲストにはあの人を]
 [bgm bgm=sud_bgm_adv_backstage-01 clip=\{"_startTime":3.4333333333,"_duration":29.1580724082,"_easeInDuration":0.0,"_easeOutDuration":1.0,"_blendInDuration":0.0,"_blendOutDuration":0.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]
 [bgm bgm=sud_bgm_adv_pop-01 clip=\{"_startTime":35.0580724081,"_duration":24.0333333333,"_easeInDuration":0.0,"_easeOutDuration":1.0,"_blendInDuration":0.0,"_blendOutDuration":0.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]
 [bgm bgm=sud_bgm_adv_comical-01 clip=\{"_startTime":59.1247390748,"_duration":5.4,"_easeInDuration":0.0,"_easeOutDuration":1.0,"_blendInDuration":0.0,"_blendOutDuration":0.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]
