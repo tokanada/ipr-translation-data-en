@@ -1,6 +1,6 @@
 [backgroundgroup backgrounds=[background id=tokyosmrroom-00-night src=env_adv_2d_tokyosmrroom-01-night]]
 [actorgroup actors=[actor id=kkr body=mdl_chr_kkr-casl-01_body face=mdl_chr_kkr-base-00_face hair=mdl_chr_kkr-base-00_hair] actors=[actor id=smr body=mdl_chr_smr-casl-01_body face=mdl_chr_smr-base-00_face hair=mdl_chr_smr-base-00_hair]]
-[title title=Kokoro Akazaki Episode 4 Won't you be Kokoro's Little Sister!?]
+[title title=Kokoro Akazaki Episode 4 Won't you be Kokoro's Imouto!?]
 [bgm bgm=sud_bgm_adv_plan-01 clip=\{"_startTime":0.0,"_duration":39.5249447823,"_easeInDuration":0.0,"_easeOutDuration":1.0,"_blendInDuration":0.0,"_blendOutDuration":0.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]
 [bgm bgm=sud_bgm_adv_comical-01 clip=\{"_startTime":42.3000016849,"_duration":26.8240072251,"_easeInDuration":0.0,"_easeOutDuration":0.5,"_blendInDuration":0.0,"_blendOutDuration":0.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]
 [bgm bgm=sud_bgm_adv_dangerous-01 clip=\{"_startTime":72.4333333334,"_duration":61.7908967019,"_easeInDuration":0.0,"_easeOutDuration":0.5,"_blendInDuration":0.0,"_blendOutDuration":0.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]
