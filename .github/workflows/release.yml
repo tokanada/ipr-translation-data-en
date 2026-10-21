@@ -57,4 +57,5 @@ jobs:
           gh api repos/tokanada/HoshimiLocalify-en/dispatches \
             -X POST \
             -f event_type=data-release \
+            -f "client_payload[tag]=${{ steps.ver.outputs.ver }}" \
             -H "Authorization: token ${{ secrets.PIPELINE_PAT }}"
