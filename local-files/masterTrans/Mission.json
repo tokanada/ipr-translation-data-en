@@ -21173,6 +21173,18 @@
     "ms-photo-23-0430-00-mission_clear_count_7|shortDescription": "Target Missions Cleared: 7",
     "surprise-mission-25-0618-url|longDescription": "View the 4th Anniversary Special Site",
     "surprise-mission-25-0618-url|name": "View the 4th Anniversary Special Site",
-    "surprise-mission-25-0618-url|shortDescription": "View the 4th Anniversary Special Site"
+    "surprise-mission-25-0618-url|shortDescription": "View the 4th Anniversary Special Site",
+    "event-ms-idoly-pride-day-mission-26-1030-login|longDescription": "Log in 1 time.",
+    "event-ms-idoly-pride-day-mission-26-1030-login|name": "Log in 1 time",
+    "event-ms-idoly-pride-day-mission-26-1030-login|shortDescription": "Log in 1 time",
+    "event-ms-idoly-pride-day-mission-26-1030-mission_clear_count|longDescription": "Clear all event missions.",
+    "event-ms-idoly-pride-day-mission-26-1030-mission_clear_count|name": "Clear All Event Missions",
+    "event-ms-idoly-pride-day-mission-26-1030-mission_clear_count|shortDescription": "Clear All Event Missions",
+    "event-ms-idoly-pride-day-mission-26-1030-photo_shoot_count|longDescription": "Take photos {threshold} times.",
+    "event-ms-idoly-pride-day-mission-26-1030-photo_shoot_count|name": "Take Photos {threshold} Times",
+    "event-ms-idoly-pride-day-mission-26-1030-photo_shoot_count|shortDescription": "Take Photos {threshold} Times",
+    "event-ms-idoly-pride-day-mission-26-1030-quest-daily-clear-count|longDescription": "Clear Daily Lives {threshold} times.",
+    "event-ms-idoly-pride-day-mission-26-1030-quest-daily-clear-count|name": "Clear Daily Lives {threshold} Times",
+    "event-ms-idoly-pride-day-mission-26-1030-quest-daily-clear-count|shortDescription": "Clear Daily Lives {threshold} Times"
   }
 }
