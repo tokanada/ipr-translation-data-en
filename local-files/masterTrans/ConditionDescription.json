@@ -25383,6 +25383,11 @@
     "cd-time-daily-sp-26-1022-27-0203|description": "Special Daily Live Period",
     "cd-time-gacha-free-ticket-1s-26-1030|description": "Free Gacha Ticket",
     "cd-time-market-discount-day-26-1030|description": "Days ending in 0",
-    "cd-time-pvp-26-1024-1026_s-banner|description": "First 3 days of PvP S-Banner"
+    "cd-time-pvp-26-1024-1026_s-banner|description": "First 3 days of PvP S-Banner",
+    "cd-time-gacha-premium-26-1024-01|description": "Period: Premium Gacha - sBanner Start",
+    "cd-time-gacha-premium-26-1024-02|description": "Period: Premium Gacha - sBanner End",
+    "cd-time-gacha-premium-26-1024|description": "Period: Premium Gacha",
+    "cd-time-gacha-premium-shop-26-1024|description": "Period: Special Premium Gacha Ticket Pack",
+    "cd-time-shop-premium-26-1024-01|description": "Premium Pack Period"
   }
 }

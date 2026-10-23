@@ -4210,6 +4210,9 @@
     "item-shop-gacha-ticket-10-r5-26-0918-01|name": "Resting White Wings Guaranteed 1-★5 10-Pull Gacha Ticket",
     "item-gacha-free-ticket-1s-26-1030|description": "Allows you to pull a 10-pull ticket gacha once",
     "item-gacha-free-ticket-1s-26-1030|howToGet": "\"0-Day is IDOLY PRIDE Day\" Limited Gift",
-    "item-gacha-free-ticket-1s-26-1030|name": "Free 10-Pull Gacha Ticket"
+    "item-gacha-free-ticket-1s-26-1030|name": "Free 10-Pull Gacha Ticket",
+    "item-gacha-premium-ticket-free-26-1024|description": "Can be used to draw the Premium Gacha",
+    "item-gacha-premium-ticket-free-26-1024|howToGet": "Go to Premium Gacha",
+    "item-gacha-premium-ticket-free-26-1024|name": "Free Premium Gacha Ticket"
   }
 }
