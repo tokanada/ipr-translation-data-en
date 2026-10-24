@@ -5507,6 +5507,17 @@
     "btn-01-gacha-free-ticket-1s-26-1030|description": "10-Pull Ticket Gacha",
     "btn-01-gacha-free-ticket-1s-26-1030|name": "10-Pull Ticket Gacha",
     "ticket-01-gacha-premium-26-1024-free|name": "Premium Gacha - Ticket",
-    "ticket-01-gacha-premium-26-1024-total|name": "Premium Gacha - Ticket"
+    "ticket-01-gacha-premium-26-1024-total|name": "Premium Gacha - Ticket",
+    "btn-01-gacha-birthday-26-1015-daily|description": "Once daily",
+    "btn-01-gacha-birthday-26-1015-daily|name": "1-pull Gacha - Paid Daily",
+    "btn-01-gacha-birthday-26-1015|name": "1-pull Gacha - Diamond",
+    "btn-01-gacha-free-ticket-1s-26-1020|description": "10-Pull Ticket Gacha",
+    "btn-01-gacha-free-ticket-1s-26-1020|name": "10-Pull Ticket Gacha",
+    "btn-01-gacha-select-birthday-01-26-1015-daily|description": "Once daily",
+    "btn-01-gacha-select-birthday-01-26-1015-daily|name": "1-pull Gacha - Ticket",
+    "btn-01-gacha-select-birthday-01-26-1015|name": "1-pull Gacha - Diamond",
+    "btn-10-gacha-birthday-26-1015|description": "Worth 1 Gacha!!",
+    "btn-10-gacha-birthday-26-1015|name": "10-Pull Gacha - Diamond",
+    "btn-10-gacha-fixed-26-1015-total|description": "(Paid) Limited to 1 Draw: 1 ★5 Idol Guaranteed"
   }
 }
